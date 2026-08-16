@@ -42,7 +42,7 @@
 | 사용도구+목적 | 제미나이(키비주얼 생성) / 오픈AI(줌인 모션 영상) |
 | 이미지프롬프트 | `A cartoon young man overwhelmed and confused, surrounded by floating complex financial charts, stock numbers, question marks, dark moody newsroom background, holding his head, flat vector illustration, vibrant highlights, 9:16 vertical` |
 | 출력 결과 요약 | 어두운 톤의 혼란스러운 경제 입문자 키비주얼 확보 |
-| 파일명 | ![alt text](<scene01 - 복사본-1.jpg>)|
+| 파일명 | <img src="참조파일/scene01 - 복사본-1.jpg>|
 
 #### 프롬프트 수정 전/후 (필수 요건)
 
