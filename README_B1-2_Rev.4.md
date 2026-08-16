@@ -63,7 +63,7 @@
 | 사용도구+목적 | 제미나이(씬1과 동일 대화창, 화풍 유지) / 오픈AI(패닝 모션 영상) |
 | 이미지프롬프트 | `A cheerful cartoon economy storyteller smiling and explaining, pointing at a bright screen with simple rising graphs, gold coins, cash icons, modern clean newsroom studio, warm vibrant lighting, flat vector illustration, 9:16 vertical` |
 | 출력 결과 요약 | 밝고 화사한 톤의 해결 장면 확보 (씬1과 대비) |
-| 파일명 | ![alt text](scene02-1.jpg) |
+| 파일명 | <img src="참조파일/scene02-1.jpg> |
 
 ### 씬 3 — CTA (6~8초)
 
@@ -76,7 +76,7 @@
 | 사용도구+목적 | 제미나이(로고 배경 생성) / 오픈AI(로고 강조 모션) / CapCut(구독버튼·자막 삽입) |
 | 이미지프롬프트 | `A friendly cartoon economy storyteller giving thumbs up, centered channel logo space at top, red subscribe button at bottom, background of subtle coins and rising charts, bright celebratory newsroom, flat vector illustration, 9:16 vertical` |
 | 출력 결과 요약 | 로고·구독 CTA가 포함된 마무리 장면 확보 (브랜드 장치 충족) |
-| 파일명 | ![alt text](scene03-1-1.jpg) |
+| 파일명 | <img src="참조파일/scene03-1-1.jpg> |
 
 ---
 
